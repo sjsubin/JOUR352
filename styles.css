@@ -60,7 +60,12 @@ href{
   letter-spacing: 5px;
   line-height: 40px;
   margin-left: 30px;
-  float: right;
+  margin-top: 50px;
+  padding: 5px;
+  padding-left: 20px;
+  color:white;
+  background-color: #67AFCB;
+  border-style: outset;
 }
 
 .col-md-7 {
@@ -89,4 +94,12 @@ a {
 
 .col-sm-5 img {
   width: 100%;
+}
+
+.col-md-6 p{
+  margin-top: 30px;
+}
+.col-md-6 img{
+  width: 80%;
+  margin-bottom: 10px;
 }
